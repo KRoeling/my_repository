@@ -1,5 +1,5 @@
 # my_repository
 
-this I typed on my laptop.
+this I changed on github too.
 
 This I changed on github again.
